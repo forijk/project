@@ -1,0 +1,26 @@
+<image class="banner" src="/images/swiper05.jpg"></image>
+
+<view class='block'>
+  <view class='block-title'>记事本</view>
+  <text class='block-desc'>功能完善中，敬请等待噢~~~</text>
+</view>
+
+<view class='block'>
+  <view class='block-title'>纪念日</view>
+  <text class='block-desc'>功能完善中，敬请等待噢~~~</text>
+</view>
+<view class='block'>
+  <view class='block-title'>收藏夹</view>
+  <text class='block-desc'>功能完善中，敬请等待噢~~~</text>
+</view>
+<view class='block'>
+  <view class='block-title'>通讯录</view>
+  <text class='block-desc'>功能完善中，敬请等待噢~~~</text>
+</view>
+<view class='block'>
+  <view class='block-title'>天气通</view>
+  <text class='block-desc'>功能完善中，敬请等待噢~~~</text>
+</view>
+<view class='footer'>
+  <button bindtap='tell'>Tel</button>
+</view>

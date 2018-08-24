@@ -1,0 +1,11 @@
+<!--pages/detail/detail.wxml-->
+<view class="title">
+  {{title}}
+</view>
+<view class="wrapper">
+<text>
+  {{content}}
+</text>
+</view>
+
+<button bindtap='copy' class="copy">复制文章内容</button>

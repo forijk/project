@@ -1,0 +1,10 @@
+<image class="banner" src="/images/about.jpg"></image>
+
+<view class='block'>
+  <view class='block-title'>关于</view>
+  <text class='block-desc'>美文分享\n\n技术博客\n\n生活随笔\n\n实用小工具\n\n记录生活的点点滴滴~\n\n博主是一个爱说爱笑爱闹的程序猿仔，资深技术宅，21世纪新型屌丝一枚~~~\n\n个人主页：www.forijk.com\n</text>
+</view>
+
+<view class='footer'>
+  <button open-type="contact">聊一聊</button>
+</view>

@@ -1,0 +1,23 @@
+/* pages/detail/detail.wxss */
+text{
+  font-size:30rpx;
+  color:rgb(43, 83, 136);
+  letter-spacing:4rpx;
+}
+.wrapper{
+  padding:0 24rpx;
+  
+}
+.title{
+  margin-top:30rpx;
+  text-align: center;
+  font-size: 40rpx;
+  color:black;
+  font-weight: bold;
+  text-indent: 60rpx;
+}
+.copy{
+  margin-top:30rpx;
+  background: #2e5e86;
+  color:white;
+}
