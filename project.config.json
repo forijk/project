@@ -9,8 +9,8 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.2.3",
-	"appid": "wx7d4cac7407f788a1",
-	"projectname": "ForBlog",
+	"appid": "",
+	"projectname": "",
 	"condition": {
 		"search": {
 			"current": -1,
